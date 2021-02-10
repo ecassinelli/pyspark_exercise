@@ -1,7 +1,7 @@
-# Apache Spark Exercise with Python
+# PySpark Exercise with Python
 
 This repository includes 2 exercises, that I did in my Fundamentals of Big 
-Data Class in my post-graduate program at the university, to perform 
+Data Class in my post-graduate diplomna program at the university, to perform 
 real-world analysis on two data sets.
 
 The data sets:
@@ -72,13 +72,16 @@ algorithm.
 ```
 Question 1 Instruction
 
-- Extract the "100000_White_House_Visitor_Records_Requests.csv.gz" file the from "100000 Data.tar.xz" file and copy it in the main folder.
+- Extract the "100000_White_House_Visitor_Records_Requests.csv.gz" file the 
+from "100000 Data.tar.xz" file and copy it in the main folder.
 - Run the jupyter notebook.
 ```
 
 ```
 Question 2 Instruction
 
-- Extract the "1titles-sorted.txt" file and the "100000_links-simple-sorted.txt.gz" the from "100000 Data.tar.xz" file and in the main folder.
+- Extract the "1titles-sorted.txt" file and the 
+"100000_links-simple-sorted txt.gz" the from "100000 Data.tar.xz" file and in
+the main folder.
 - Run the jupyter notebook.
 ```
