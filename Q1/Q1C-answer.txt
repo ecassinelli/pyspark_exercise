@@ -1,0 +1,14 @@
+Q1C: 5 most frequently visited people
+
++----------------+-----------------+-----+
+|visitee_namelast|visitee_namefirst|count|
++----------------+-----------------+-----+
+|          OFFICE|         VISITORS|49717|
+|          OFFICE|        VISITORS |12063|
+|           POTUS|             null| 7381|
+|            COLO|          CATRINA| 1714|
+|            null|             null| 1688|
+|         DOEBLER|              MAX| 1552|
++----------------+-----------------+-----+
+
+NOTE: We take 6 rows here, since the first two should belong to one visitee

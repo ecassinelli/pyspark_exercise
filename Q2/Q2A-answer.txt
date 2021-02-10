@@ -1,0 +1,27 @@
+Q2A: Pages with no Outlinks
+
++-----+--------------------+
+| Link|               Title|
++-----+--------------------+
+|   21|      !?Revolution!?|
+| 3726|...And_Oceans_vs....|
+| 4401|        .458_Express|
+| 6054|                  0.|
+| 6072|           0.7_FILMS|
+| 6142|                 001|
+| 6786|  0_(disambiguation)|
+| 8949|100_Days_(1999_film)|
+| 9692|    102.5_The_Bridge|
+|12672|   110th_US_Congress|
+|15205|121st_Pennsylvani...|
+|19060|  13th_Finance_Group|
+|20915|14th_Bombardment_...|
+|26236|             1710_AM|
+|28202|           17_Relics|
+|38781|1931-32_Southern_...|
+|39187|1933_Baffin_Bay_e...|
+|41856|  1946–47_OHA_season|
+|58618|       1988_election|
+|59758|    1990_Kremlin_Cup|
++-----+--------------------+
+only showing top 20 rows

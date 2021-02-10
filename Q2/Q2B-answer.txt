@@ -1,0 +1,27 @@
+Q2B: Pages with no Inlinks
+
++----+--------------------+
+|Link|               Title|
++----+--------------------+
+|   1|                   !|
+|   4|                !!!!|
+|   6|!!!Fuck_You!!!_An...|
+|   7|!!!Fuck_You!!!_An...|
+|  10|          !!!_(band)|
+|  11|  !!Destroy-Oh-Boy!!|
+|  12|        !!Fuck_you!!|
+|  13|                 !!M|
+|  14|!!Que_Corra_La_Voz!!|
+|  15|          !!_(chess)|
+|  16|                 !!m|
+|  17| !'O-!khung_language|
+|  18|                  !=|
+|  19|                  !?|
+|  20|                 !?!|
+|  21|      !?Revolution!?|
+|  22|          !?_(chess)|
+|  23|          !A_Luchar!|
+|  24|       !Action_Pact!|
+|  25|      !Adios_Amigos!|
++----+--------------------+
+only showing top 20 rows

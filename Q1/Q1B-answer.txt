@@ -1,0 +1,36 @@
+Q1B: Most visited person by each of the 5 most frequent visitors
+
+Most visited person by DEMEKE MARIA
++----------------+-----------------+-----+
+|visitee_namelast|visitee_namefirst|count|
++----------------+-----------------+-----+
+|          BUSSOW|             MARK|   21|
++----------------+-----------------+-----+
+
+Most visited person by NEUFELD ADAM
++----------------+-----------------+-----+
+|visitee_namelast|visitee_namefirst|count|
++----------------+-----------------+-----+
+|          BUSSOW|             MARK|   14|
++----------------+-----------------+-----+
+
+Most visited person by KIM HUN
++----------------+-----------------+-----+
+|visitee_namelast|visitee_namefirst|count|
++----------------+-----------------+-----+
+|          KUNDRA|            VIVEK|   22|
++----------------+-----------------+-----+
+
+Most visited person by WIDGER ANN
++----------------+-----------------+-----+
+|visitee_namelast|visitee_namefirst|count|
++----------------+-----------------+-----+
+|          WHITTY|          PATRICK|   10|
++----------------+-----------------+-----+
+
+Most visited person by MILBY SARAH
++----------------+-----------------+-----+
+|visitee_namelast|visitee_namefirst|count|
++----------------+-----------------+-----+
+|          BUSSOW|             MARK|   11|
++----------------+-----------------+-----+

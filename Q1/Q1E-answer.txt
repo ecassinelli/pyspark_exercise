@@ -1,0 +1,15 @@
+Q1E: Most frquent visitor-visitee combinations
++----------------+-----------------+--------------+---------+-------+-----+
+|visitee_namelast|visitee_namefirst|      NAMELAST|NAMEFIRST|NAMEMID|count|
++----------------+-----------------+--------------+---------+-------+-----+
+|          KUNDRA|            VIVEK|           KIM|      HUN|      S|   22|
+|          BUSSOW|             MARK|        DEMEKE|    MARIA|   null|   21|
+|          SAHENE|              JR.|         YODER|     RYAN|   null|   19|
+|          KUNDRA|            VIVEK|        HARDIE|     IRIS|      D|   18|
+|        WILLIAMS|            DEBRA|        DEMEKE|    MARIA|   null|   17|
+|          BUSSOW|             MARK|         MIRZA|     ASMA|   null|   16|
+|        WILLIAMS|            DEBRA|         MIRZA|     ASMA|      Y|   15|
+|           IRWIN|            JANET|      FONTAINE|  TIMOTHY|      E|   14|
+|            WARD|             POPE|         EVANS|    DAVID|      M|   14|
+|          FISCUS|           TAYLOR|LEITNERLASERNA|    SOFIA|      I|   13|
++----------------+-----------------+--------------+---------+-------+-----+

@@ -1,0 +1,11 @@
+Q1A: 5 most frequent visitors
+
++--------+---------+-------+-----+
+|NAMELAST|NAMEFIRST|NAMEMID|count|
++--------+---------+-------+-----+
+|  DEMEKE|    MARIA|   null|   41|
+| NEUFELD|     ADAM|   null|   36|
+|     KIM|      HUN|      S|   30|
+|   MILBY|    SARAH|   null|   25|
+|  WIDGER|      ANN|   null|   25|
++--------+---------+-------+-----+

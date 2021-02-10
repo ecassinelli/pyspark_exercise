@@ -1,0 +1,36 @@
+Q1D: Each person who visited the most each most visited people
+
+Person who visited OFFICE VISITORS the most.
++--------+---------+-----+
+|NAMELAST|NAMEFIRST|count|
++--------+---------+-----+
+|  COOPER|  HEATHER|   10|
++--------+---------+-----+
+
+Person who visited POTUS null the most.
++--------+---------+-----+
+|NAMELAST|NAMEFIRST|count|
++--------+---------+-----+
+|   REYES| CAROLINA|    6|
++--------+---------+-----+
+
+Person who visited COLO CATRINA the most.
++--------+---------+-----+
+|NAMELAST|NAMEFIRST|count|
++--------+---------+-----+
+|   SMITH|   WALTER|    6|
++--------+---------+-----+
+
+Person who visited null null the most.
++---------+---------+-----+
+| NAMELAST|NAMEFIRST|count|
++---------+---------+-----+
+|BAUSERMAN|  CAMERON|    4|
++---------+---------+-----+
+
+Person who visited DOEBLER MAX the most.
++--------+---------+-----+
+|NAMELAST|NAMEFIRST|count|
++--------+---------+-----+
+|BOGUSLAW|   ROBERT|    7|
++--------+---------+-----+
