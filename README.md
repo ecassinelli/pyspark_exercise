@@ -1,7 +1,7 @@
 # PySpark Exercise with Python
 
 This repository includes 2 exercises, that I did in my Fundamentals of Big 
-Data Class in my post-graduate diplomna program at the university, to perform 
+Data Class in my post-graduate diploma program at the university, to perform 
 real-world analysis on two data sets.
 
 The data sets:
